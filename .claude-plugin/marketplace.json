@@ -12,6 +12,11 @@
       "name": "commit-helper",
       "source": "./commit-helper",
       "description": "Hilft beim Schreiben von Conventional-Commit-Messages"
+    },
+    {
+      "name": "changelog-gen",
+      "source": "./changelog-gen",
+      "description": "Erstellt Changelog-Einträge im Keep-a-Changelog-Format"
     }
   ]
 }
