@@ -1,6 +1,6 @@
 ---
 name: keep-a-changelog
-description: Erstellt Changelog-Einträge im Keep-a-Changelog-Format. Wird verwendet, wenn der User ein Changelog aktualisieren möchte oder nach einem Release-Eintrag fragt.
+description: Ers Changelog-Einträge im Keep-a-Changelog-Format. Wird verwendet, wenn der User ein Changelog aktualisieren möchte oder nach einem Release-Eintrag fragt.
 ---
 
 # Keep a Changelog
