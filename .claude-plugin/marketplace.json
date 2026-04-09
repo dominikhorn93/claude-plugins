@@ -1,0 +1,17 @@
+{
+  "name": "plugin-test",
+  "owner": {
+    "name": "Dominik Horn"
+  },
+  "metadata": {
+    "description": "Beispiel-Marketplace mit einem Demo-Plugin",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "commit-helper",
+      "source": "./commit-helper",
+      "description": "Hilft beim Schreiben von Conventional-Commit-Messages"
+    }
+  ]
+}

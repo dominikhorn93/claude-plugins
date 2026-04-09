@@ -1,0 +1,8 @@
+{
+  "name": "changelog-gen",
+  "description": "Erstellt Changelog-Einträge im Keep-a-Changelog-Format",
+  "version": "0.1.0",
+  "author": {
+    "name": "Dominik Horn"
+  }
+}
