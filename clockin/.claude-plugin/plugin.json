@@ -1,0 +1,8 @@
+{
+  "name": "clockin",
+  "description": "Clockin-Workflows: Synchronisiert Aufträge aus Dimacon nach Clockin als Projekte.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Dominik Horn"
+  }
+}
