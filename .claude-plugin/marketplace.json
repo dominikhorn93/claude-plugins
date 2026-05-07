@@ -1,22 +1,27 @@
 {
-  "name": "plugin-test",
+  "name": "miranum-skills",
   "owner": {
     "name": "Dominik Horn"
   },
   "metadata": {
-    "description": "Beispiel-Marketplace mit einem Demo-Plugin",
-    "version": "0.2.1"
+    "description": "Miranum-Marketplace mit Plugins für Lexoffice, Dimacon und Clockin",
+    "version": "0.3.0"
   },
   "plugins": [
     {
-      "name": "commit-helper",
-      "source": "./commit-helper",
-      "description": "Hilft beim Schreiben von Conventional-Commit-Messages"
+      "name": "lexoffice",
+      "source": "./lexoffice",
+      "description": "Lexware Office Workflows: Angebote anlegen mit §13b-Steuerlogik und Deeplink-Ausgabe"
     },
     {
-      "name": "changelog-gen",
-      "source": "./changelog-gen",
-      "description": "Erstellt Changelog-Einträge im Keep-a-Changelog-Format"
+      "name": "dimacon",
+      "source": "./dimacon",
+      "description": "Dimacon-Workflows: Aufträge planen vom Kundenabgleich bis zur Job- und Working-Erstellung"
+    },
+    {
+      "name": "clockin",
+      "source": "./clockin",
+      "description": "Clockin-Workflows: Synchronisiert Aufträge aus Dimacon nach Clockin als Projekte"
     }
   ]
 }

@@ -1,0 +1,8 @@
+{
+  "name": "dimacon",
+  "description": "Dimacon-Workflows: Aufträge planen vom Kundenabgleich über Projektauswahl bis zur Job- und Working-Erstellung.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Dominik Horn"
+  }
+}

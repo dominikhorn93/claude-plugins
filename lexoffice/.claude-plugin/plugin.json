@@ -1,0 +1,8 @@
+{
+  "name": "lexoffice",
+  "description": "Lexware Office (Lexoffice) Workflows: Angebote anlegen aus LV oder Chat-Positionen, mit korrekter §13b-Steuerlogik und Deeplink-Ausgabe.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Dominik Horn"
+  }
+}
